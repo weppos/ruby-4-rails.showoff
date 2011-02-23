@@ -1,0 +1,21 @@
+{
+  "name": "Ruby 4 Rails",
+  "description": "Learning Ruby, with Rails in mind",
+  "sections": [
+    { "section" : "introduction" },
+    { "section" : "installing" },
+    { "section" : "overview" },
+    { "section" : "gettingstarted" },
+    { "section" : "types" },
+    { "section" : "classes" },
+    { "section" : "methods" },
+    { "section" : "expressions" },
+    { "section" : "statements" },
+    { "section" : "exceptions" },
+    { "section" : "libraries" },
+    { "section" : "testing" },
+    { "section" : "rack" },
+    { "section" : "sinatra" },
+    { "section" : "end" }
+  ]
+}
