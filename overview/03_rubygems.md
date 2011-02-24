@@ -1,5 +1,0 @@
-!SLIDE
-# RubyGems
-
-!SLIDE
-# Gem

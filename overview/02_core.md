@@ -1,2 +1,0 @@
-!SLIDE
-# Standard Library
