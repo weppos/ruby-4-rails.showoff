@@ -1,5 +1,0 @@
-!SLIDE
-# Array
-
-!SLIDE
-# Enumerable
