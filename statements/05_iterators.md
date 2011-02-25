@@ -1,2 +1,0 @@
-!SLIDE
-# Enumerable and Iterators
