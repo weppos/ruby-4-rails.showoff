@@ -21,11 +21,13 @@
 # `for`
 
     @@@ Ruby
-    %w( foo bar baz ).each { ... }
+    for item in %w( foo bar baz )
+      # ... item
+    end
 
 
 !SLIDE
 # Enumerable
 
     @@@ Ruby
-    %w( foo bar baz ).each { ... }
+    %w( foo bar baz ).each { |item| ... }
