@@ -25,7 +25,7 @@
     @@@ Ruby
     class Article
       def initialize(title)
-        @title = tile
+        @title = title
       end
       
       def title
@@ -53,7 +53,7 @@
       
       def initialize(title)
         # Instance variable
-        @title = tile
+        @title = title
       end
       
       def title
@@ -73,7 +73,7 @@
     @@@ Ruby
     class Base
       def initialize(title)
-        @title = tile
+        @title = title
       end
       def title
         @title.to_s
