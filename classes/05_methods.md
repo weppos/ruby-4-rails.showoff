@@ -187,6 +187,7 @@
     # => "hello"
 
 
+!SLIDE
 # bang! (copy vs self)
 
     @@@ Ruby
@@ -203,6 +204,7 @@
     # => "YELLOW"
 
 
+!SLIDE
 # bang! (false vs raise)
 
     @@@ Ruby
@@ -215,6 +217,7 @@
     # => raise ActiveRecord::RecordNotValid
 
 
+!SLIDE
 # question?
 
     @@@ Ruby
@@ -237,6 +240,7 @@
     # => false
 
 
+!SLIDE
 # Parameters
 
     @@@ Ruby
@@ -260,6 +264,7 @@
     m3(2)
 
 
+!SLIDE
 # Parameter Overloading
 
     @@@ Ruby
