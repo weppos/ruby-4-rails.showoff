@@ -18,7 +18,7 @@
     end
     
     m1 do
-      ...
+      # ...
     end
     # Proc
 
