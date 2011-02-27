@@ -1,5 +1,5 @@
 !SLIDE subsection
-# Sumbol
+# Symbol
 
 
 !SLIDE
