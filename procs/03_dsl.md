@@ -10,7 +10,7 @@
 ## and implement them in Ruby
 
 
-!SLIDE center
+!SLIDE
 # Example from Capistrano
 
     @@@ Ruby
@@ -18,12 +18,13 @@
       desc <<-DESC
         Restarts your application.
       DESC
-      task :restart, :roles => :app, :except => { :no_release => true } do
+      task :restart, :roles => :app do
         run "touch #{current_path}/tmp/restart.txt"
       end
+    end
 
 
-!SLIDE center
+!SLIDE
 # Example from Whois
 
     @@@ Ruby
