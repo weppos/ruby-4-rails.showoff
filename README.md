@@ -50,3 +50,9 @@ it in this directory:
 
 Then you should be able to go to http://localhost:9090 to view the
 presentation.
+
+## License
+
+![License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
+Ruby 4 Rails is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
