@@ -23,3 +23,13 @@ strong {
   font-size: 2em;
   font-family: monospace;
 }
+
+.content.master h1 {
+  font-size: 6em;
+  color: #000;
+}
+
+.content.chat blockquote p {
+  margin: 10px 0;
+  line-height: 120%;
+}

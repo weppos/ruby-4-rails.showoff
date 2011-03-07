@@ -2,6 +2,7 @@
   "name": "Ruby 4 Rails",
   "description": "Learning Ruby, with Rails in mind",
   "sections": [
+    { "section" : "start" },
     { "section" : "introduction" },
     { "section" : "installing" },
     { "section" : "overview" },
