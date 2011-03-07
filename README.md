@@ -40,15 +40,21 @@ This is *that* presentation. **Enjoy Ruby!**
 
 This is a ShowOff presentation (http://github.com/schacon/showoff)
 
-If you want to see it, you need to install showoff and then run
-it in this directory:
+If you want to see it, you need to install `showoff` and all its dependencies. The most simple way is to use `bundler`.
 
-    $ gem install showoff
+    $ gem install bundler
+
+Clone the project and install the dependencies.
+
     $ git clone https://github.com/weppos/ruby-4-rails.showoff.git
     $ cd ruby-4-rails.showoff
+    $ bundle install
+
+Then run `showoff` it in this directory
+
     $ showoff serve
 
-Then you should be able to go to http://localhost:9090 to view the
+Now you should be able to go to http://localhost:9090 to view the
 presentation.
 
 ## License
