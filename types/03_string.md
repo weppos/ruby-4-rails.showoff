@@ -60,14 +60,14 @@
     var = 'hello\nworld'
     # => hello\nworld
     
-    var = "hello\nnworld"
+    var = "hello\nworld"
     # => hello
          world
     
-    var = %q{hello\nnworld}
-    # => hello\nnworld
+    var = %q{hello\nworld}
+    # => hello\nworld
     
-    var = %Q{hello\nnworld}
+    var = %Q{hello\nworld}
     # => hello
          world
 
