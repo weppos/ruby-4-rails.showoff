@@ -233,7 +233,7 @@
 
     @@@ Ruby
     class Article
-      cattr_accessor :year
+      attr_accessor :year
       @@year = 2011
     end
     
